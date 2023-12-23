@@ -1,0 +1,22 @@
+dateModified: 1703352565
+email:
+  fromEmail: admin@gmail.com
+  fromName: WeshMusics
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    0ca0be2f-ef5a-4b97-8363-8b4b14f0ac7a: WeshMusics # WeshMusics
+    6f7508e6-00f8-4ec5-8875-d63df9197f71: Common # Common
+    c680bc59-3f05-428d-8bc4-bc16533915c2: WeshMusics # WeshMusics
+system:
+  edition: solo
+  live: true
+  name: WeshMusics
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
