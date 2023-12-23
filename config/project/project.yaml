@@ -1,13 +1,42 @@
-dateModified: 1703352565
+dateModified: 1703357621
 email:
   fromEmail: admin@gmail.com
   fromName: WeshMusics
   transportType: craft\mail\transportadapters\Sendmail
+fs:
+  assets:
+    hasUrls: true
+    name: assets
+    settings:
+      path: '@webroot'
+    type: craft\fs\Local
+    url: '@web'
 meta:
   __names__:
     0ca0be2f-ef5a-4b97-8363-8b4b14f0ac7a: WeshMusics # WeshMusics
+    1e35febb-57bb-415a-91fe-90ec0b769561: music-assets # music-assets
+    1ee70234-c80f-4f11-8cc1-698b4943fd6c: artists # artists
+    2b38cc69-a6db-423d-8a4f-fa9744f8f9dd: videoclip # videoclip
+    03d8bc0f-8fa2-49c2-9567-d838557638a7: song # song
+    6c7a5480-f8d5-4402-90e4-b2758862b832: genre # genre
+    6cd363a3-577c-4b86-bc86-c39ad9e267ab: albums # albums
     6f7508e6-00f8-4ec5-8875-d63df9197f71: Common # Common
+    6ff15bb9-0414-4d0d-b181-3fe414a04e9e: Song # Song
+    8efdcb0f-0586-4f5d-b871-f1a99f2b36f0: Artist # Artist
+    08facab3-6d6d-418a-99f1-15c305171189: duration # duration
+    17e3ea24-e9d8-4563-846b-c8ec8d4e8602: Default # Default
+    30bd721a-e485-4c6c-8664-0b0740e7406a: Default # Default
+    61e706d8-85e9-44ba-b43f-9d15cf086ac8: album # album
+    173fc46c-a95d-4987-bcce-92a137a35b3d: nationality # nationality
+    595cda13-61f2-4114-a6a8-6516833e930b: release # release
+    613f823c-4abe-433b-9c5a-5f84a2b13d0c: bannerImage # bannerImage
+    2053e87c-59f8-4df9-8204-e3e1935f9050: songs # songs
+    b0e590fd-65f9-461a-83b7-4df3c91ebce8: lyrics # lyrics
+    b72536c0-eb90-4332-9c1a-2fb2de79b6bd: bannerImage # bannerImage
     c680bc59-3f05-428d-8bc4-bc16533915c2: WeshMusics # WeshMusics
+    ced3de7c-6fb5-4fd5-a0e7-539f4cef0c1c: Album # Album
+    ed05a016-218d-47fd-be7d-017482d87945: Default # Default
+    f583f770-ea05-466b-ad75-160a631b51aa: artist # artist
 system:
   edition: solo
   live: true
