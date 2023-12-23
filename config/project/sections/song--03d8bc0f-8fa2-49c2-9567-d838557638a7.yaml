@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: song
+name: song
+propagationMethod: all
+siteSettings:
+  c680bc59-3f05-428d-8bc4-bc16533915c2: # WeshMusics
+    enabledByDefault: true
+    hasUrls: true
+    template: song/_entry
+    uriFormat: 'song/{slug}'
+type: channel

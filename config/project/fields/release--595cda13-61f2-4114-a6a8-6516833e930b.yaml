@@ -1,0 +1,19 @@
+columnSuffix: ghhxnnug
+contentColumnType: text
+fieldGroup: ced3de7c-6fb5-4fd5-a0e7-539f4cef0c1c # Album
+handle: release
+instructions: null
+name: release
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

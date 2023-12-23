@@ -1,0 +1,12 @@
+defaultPlacement: end
+enableVersioning: true
+handle: album
+name: album
+propagationMethod: all
+siteSettings:
+  c680bc59-3f05-428d-8bc4-bc16533915c2: # WeshMusics
+    enabledByDefault: true
+    hasUrls: true
+    template: album/_entry
+    uriFormat: 'album/{slug}'
+type: channel

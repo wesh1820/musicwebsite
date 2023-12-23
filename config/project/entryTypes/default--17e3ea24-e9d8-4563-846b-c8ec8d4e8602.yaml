@@ -1,0 +1,131 @@
+fieldLayouts:
+  c3b0960b-8d64-4321-a3c9-0cbf030950a6:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\entries\EntryTitleField
+            uid: 54f31caf-2f6c-4932-9e20-9e878541a2ee
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 08facab3-6d6d-418a-99f1-15c305171189 # duration
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3392e386-dff0-4d57-baac-ff05f006b839
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 6c7a5480-f8d5-4402-90e4-b2758862b832 # genre
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 1cc4ea54-ee59-4df8-b3e6-f628d11b116f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b0e590fd-65f9-461a-83b7-4df3c91ebce8 # lyrics
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 642519ed-3076-48db-96b1-6b615bb9c4ba
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 2b38cc69-a6db-423d-8a4f-fa9744f8f9dd # videoclip
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 4b5f77d6-e007-4b2d-9421-2d414cf6213f
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: b72536c0-eb90-4332-9c1a-2fb2de79b6bd # bannerImage
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 3b33ac5c-6fd0-4493-83e3-7aacc4bc9502
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 1ee70234-c80f-4f11-8cc1-698b4943fd6c # artists
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 73f5f8fb-5cd0-4441-bdf7-d538bd130c05
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            elementCondition: null
+            fieldUid: 6cd363a3-577c-4b86-bc86-c39ad9e267ab # albums
+            instructions: null
+            label: null
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: a94c4b0f-19c7-452b-a819-5dbe198d5138
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 824e0a6e-c90c-4fc2-bc09-f000858a090e
+        userCondition: null
+handle: default
+hasTitleField: true
+name: Default
+section: 03d8bc0f-8fa2-49c2-9567-d838557638a7 # song
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+sortOrder: 1
+titleFormat: null
+titleTranslationKeyFormat: null
+titleTranslationMethod: site

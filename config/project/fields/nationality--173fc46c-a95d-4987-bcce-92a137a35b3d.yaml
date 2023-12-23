@@ -1,0 +1,19 @@
+columnSuffix: uspmssrq
+contentColumnType: text
+fieldGroup: 8efdcb0f-0586-4f5d-b871-f1a99f2b36f0 # Artist
+handle: nationality
+instructions: null
+name: nationality
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: false
+  columnType: null
+  initialRows: 4
+  multiline: false
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

@@ -1,0 +1,14 @@
+columnSuffix: luuxwbvw
+contentColumnType: string(255)
+fieldGroup: 6ff15bb9-0414-4d0d-b181-3fe414a04e9e # Song
+handle: videoclip
+instructions: null
+name: videoclip
+searchable: false
+settings:
+  maxLength: 255
+  types:
+    - url
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Url

@@ -1,0 +1,67 @@
+fieldLayouts:
+  6ee8a9b2-4718-457d-a49c-7eee1252bc1e:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            elementCondition: null
+            id: null
+            inputType: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AssetTitleField
+            uid: b030e3bc-1d32-46d3-bd26-57b22be6632a
+            userCondition: null
+            warning: null
+            width: 100
+          -
+            attribute: alt
+            class: null
+            cols: null
+            disabled: false
+            elementCondition: null
+            id: null
+            instructions: null
+            label: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: true
+            required: false
+            rows: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\assets\AltField
+            uid: e33a34f3-c795-4b45-95ed-6ae0c01a0c38
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 27be3b40-a597-4723-96bf-4c04e713c5b7
+        userCondition: null
+fs: assets
+handle: musicAssets
+name: music-assets
+sortOrder: 1
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+transformFs: ''
+transformSubpath: ''

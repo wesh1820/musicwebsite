@@ -1,0 +1,57 @@
+columnSuffix: tbcoqynp
+contentColumnType: string(6)
+fieldGroup: 6ff15bb9-0414-4d0d-b181-3fe414a04e9e # Song
+handle: genre
+instructions: null
+name: genre
+searchable: false
+settings:
+  columnType: null
+  options:
+    -
+      __assoc__:
+        -
+          - label
+          - Rock
+        -
+          - value
+          - rock
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Pop
+        -
+          - value
+          - pop
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - Techno
+        -
+          - value
+          - techno
+        -
+          - default
+          - ''
+    -
+      __assoc__:
+        -
+          - label
+          - House
+        -
+          - value
+          - house
+        -
+          - default
+          - ''
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\Dropdown
